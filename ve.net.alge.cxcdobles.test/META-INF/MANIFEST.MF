@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Cobros Duplicados CxC Test
+Bundle-SymbolicName: ve.net.alge.cxcdobles.test
+Bundle-Version: 7.1.0.qualifier
+Bundle-Vendor: ALGE CONSULTORES <https://www.algeconsultores.com>
+Fragment-Host: ve.net.alge.cxcdobles
+Bundle-ClassPath: .,
+ lib/junit-jupiter-engine.jar,
+ lib/junit-jupiter-api.jar,
+ lib/junit-platform-commons.jar,
+ lib/junit-platform-engine.jar,
+ lib/assertj-core.jar,
+ lib/mockito-core.jar,
+ lib/mockito-junit-jupiter.jar,
+ lib/objenesis.jar,
+ lib/byte-buddy-agent.jar,
+ lib/byte-buddy.jar,
+ lib/opentest4j.jar,
+ lib/apiguardian-api.jar,
+ lib/javafaker.jar,
+ lib/generex.jar,
+ lib/automaton.jar,
+ lib/snakeyaml.jar,
+ lib/commons-lang3.jar,
+ lib/hamcrest.jar,
+ lib/hamcrest-core.jar
